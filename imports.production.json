@@ -1,0 +1,18 @@
+{
+  "imports": {
+    "@atlas/root-config": "https://root-config.vercel.app/atlas-root-config.js",
+    "@atlas/atlas-utils": "https://atlas-utils.vercel.app/atlas-atlas-utils.js",
+    "@atlas/atlas-styles": "https://atlas-styles.vercel.app/atlas-atlas-styles.js",
+    "@atlas/atlas-firewall": "https://atlas-firewall.vercel.app/atlas-atlas-firewall.js",
+    "@atlas/atlas-auth": "https://atlas-auth.vercel.app/atlas-atlas-auth.js",
+    "@atlas/atlas-new-password": "https://atlas-new-password.vercel.app/atlas-atlas-new-password.js",
+    "@atlas/atlas-navigation": "https://atlas-navigation.vercel.app/atlas-atlas-navigation.js",
+    "@atlas/atlas-content": "https://atlas-content.vercel.app/atlas-atlas-content.js",
+    "@atlas/atlas-customers": "https://atlas-customers.vercel.app/atlas-customers.js",
+    "@atlas/atlas-economic-group": "https://atlas-economic-group.vercel.app/atlas-atlas-economic-group.js",
+    "@atlas/atlas-modules": "https://atlas-modules.vercel.app/atlas-atlas-modules.js",
+    "@atlas/atlas-products": "https://atlas-products.vercel.app/atlas-products.js",
+    "@atlas/atlas-companies": "https://atlas-companies.vercel.app/atlas-companies.js",
+    "@atlas/atlas-company-products": "https://atlas-company-products.vercel.app/atlas-atlas-company-products.js"
+  }
+}
